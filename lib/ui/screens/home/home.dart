@@ -1,7 +1,7 @@
 import 'package:demo/controllers/controllers.dart';
+import 'package:demo/ui/widgets/widgets.dart';
 import 'package:demo/utils/utils.dart';
 import 'package:flutter/material.dart';
-import 'widgets/widgets.dart';
 import 'package:get/get.dart';
 
 class HomePage extends StatelessWidget {
